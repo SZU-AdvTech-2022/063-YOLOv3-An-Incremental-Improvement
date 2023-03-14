@@ -1,0 +1,5 @@
+@misc{REPO-064,
+    author = "Redmon, Joseph and Farhadi, Ali",
+    title = "{YOLOv3: An Incremental Improvement}",
+    year = "2018"
+}
